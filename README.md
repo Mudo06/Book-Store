@@ -32,7 +32,7 @@ spring.datasource.password=password
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 ```
 
-4. Uygulamayı başlatın:
+4. Uygulamayı başlatın (javanın aktive edilmesini bekleyin!):
 
 ```bash
 mvn spring-boot:run

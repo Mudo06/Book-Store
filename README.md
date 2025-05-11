@@ -25,6 +25,7 @@ git clone https://github.com/Mudo06/Book-Store.git
 Veritabanı bağlantısı ayarını yapılandırın (veri tabanı projeyi başlattığınızda otomatik olarak oluşacaktır).
 
 ```json
+# Database configuration
 spring.datasource.url=jdbc:mysql://your-connection/book_store?createDatabaseIfNotExist=true
 spring.datasource.username=root
 spring.datasource.password=password
@@ -42,8 +43,8 @@ mvn spring-boot:run
 ```bash
 http://localhost:8080/swagger-ui/index.html?continue#/
 ```
-6.Eğer Postman ile test etmek isterseniz
-`Bookstore_API_Collection.json` dosyasını postmande import ederek test edebilirsiniz.
+  6.Eğer Postman ile test etmek isterseniz
+`Bookstore_API_Collection.json` dosyasını Postman de import ederek test edebilirsiniz.
 
 
 ## 📌 Özellikler

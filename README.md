@@ -126,8 +126,8 @@ bookstore/
 
 ```
 
-##🖼️ Swagger Tüm API'ler
+## 🖼️ Swagger Tüm API'ler
 ![Image](https://github.com/user-attachments/assets/78bce7e3-82d4-4ec2-b76b-401949c4e859)
 
-##🛢️ Veritabanı Şeması (Entity-Relationship Diagram)
+## 🛢️ Veritabanı Şeması (Entity-Relationship Diagram)
 ![Image](https://github.com/user-attachments/assets/94b0701f-1457-41eb-b24e-2195a4d503f6)

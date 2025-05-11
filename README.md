@@ -111,9 +111,9 @@ bookstore/
 │   ├── Order/
 │   │   ├── OrderItemRepository.java
 │   │   ├── OrderRepository.java
-│   │   ├── AuthorRepository.java
-│   │   ├── BookRepository.java
-│   │   └── UserRepository.java
+│   ├── AuthorRepository.java
+│   ├── BookRepository.java
+│   └── UserRepository.java
 │
 ├── service/
 │   ├── AuthorService.java

@@ -22,7 +22,7 @@ git clone https://github.com/Mudo06/Book-Store.git
 
 2. `application.properties` dosyasını düzenleyin:
 
-Veritabanı bağlantısı ayarını yapılandırın (veri tabanı projeyi başlattığınızda otomatik olarak oluşacaktır).
+Veritabanı bağlantısı ayarını yapılandırın (veri tabanı ve örnek datalar projeyi başlattığınızda otomatik olarak oluşacaktır.)
 
 ```json
 # Database configuration

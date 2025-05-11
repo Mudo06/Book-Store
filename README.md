@@ -8,7 +8,7 @@ Spring Boot ile geliştirilmiş olup, JWT kimlik doğrulama sistemiyle güvenli 
 ### Gereksinimler
 
 - Java 17
-- Visual Codse (veya benzeri bir editör)
+- Visual Code (veya benzeri bir editör)
 - MySQL (veya bağlantılı bir veritabanı altyapısı)  
 - Postman (API testleri için önerilir)
 
